@@ -1,0 +1,19 @@
+{
+  "name": "Weekly Coach",
+  "short_name": "Weekly Coach",
+  "description": "Weekly reflection coach with history, charts, and JSON backup.",
+  "start_url": "./weekly-coach.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f5f0",
+  "theme_color": "#1a1a2e",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
